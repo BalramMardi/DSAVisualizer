@@ -1,0 +1,23 @@
+.grid-container {
+  margin: 10px auto;
+}
+
+.grid {
+  white-space: pre;
+}
+
+.path-bottom-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.path-bottom-btn button {
+  height: 50px;
+  width: 120px;
+  background-color: rgb(0, 164, 189);
+  /* box-shadow: 2px black; */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin: 2px;
+}

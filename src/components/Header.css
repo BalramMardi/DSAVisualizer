@@ -1,0 +1,25 @@
+* {
+  margin-top: 0;
+}
+
+.header-container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.header-box {
+  background-color: #1a3c58;
+  text-align: center;
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+.active {
+  background-color: rgb(0, 164, 189); /* or any color you prefer */
+  color: white; /* to make the text readable */
+  cursor: default;
+}
