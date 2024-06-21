@@ -1,8 +1,5 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
-
-import PathfindingVisualizer from "./PathfindingVisualizer/PathfindingVisualizer";
-import Final from "./Sorting/Final";
 import Graph from "./pages/Graph";
 import Sort from "./pages/Sort";
 
